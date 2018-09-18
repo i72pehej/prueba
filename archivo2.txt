@@ -1,1 +1,2 @@
-este es el segundo fichero
+Este es el segundo fichero. Modificado para diff.
+
