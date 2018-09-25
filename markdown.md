@@ -25,3 +25,5 @@ Código en más
 de una
 línea
 ~~~
+
+![Esto es para insertar Imágenes](url)
