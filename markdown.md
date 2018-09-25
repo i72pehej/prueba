@@ -17,3 +17,5 @@
   ###### Encabezado 6 (max)
   
   > Esto es una cita.
+
+`Código en línea.
