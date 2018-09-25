@@ -19,3 +19,9 @@
   > Esto es una cita.
 
 `Esto es un -> Código en línea.`
+
+~~~
+Código en más
+de una
+línea
+~~~
