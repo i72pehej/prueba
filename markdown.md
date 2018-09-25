@@ -30,4 +30,3 @@ línea
 ![Esto es para insertar Imágenes](url)
 
 [Esto redirige a un link](url)
-
