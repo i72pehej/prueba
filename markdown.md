@@ -18,4 +18,4 @@
   
   > Esto es una cita.
 
-`Código en línea.
+`Esto es un -> Código en línea.`
