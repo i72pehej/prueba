@@ -1,5 +1,5 @@
 # **Comandos Ramas III**
-  **Almacenar cambios temporales:**
+  **Almacenar cambios temporales:** &nbsp
   `git stash save "Mensaje"`
 
   **Listar cambios:**   
