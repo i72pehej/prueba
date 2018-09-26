@@ -1,6 +1,6 @@
-# **Comandos Ramas III**   
-   **Almacenar cambios temporales:**  
-   `git stash save "Mensaje"`    
+# **Comandos Ramas III**
+  **Almacenar cambios temporales:**  
+  `git stash save "Mensaje"`    
 
   **Listar cambios:**
   `git stash list`    
@@ -33,7 +33,7 @@
   **Añadir cambios del repositorio remoto al local:**
   `git pull`    
 
-**Comandos GitHub II**  
+# **Comandos GitHub II**  
   **Ver** *branches* **remotos:**
   `git branch -r`   
 
@@ -60,7 +60,7 @@
     `git pull`
 
 # **Operaciones con** *branches* **remotos**  
-  * Creacion:
+  * Creación:
     1. Crear branch local.
     2. Hacer cambios en dicho branch.
     3. Hacer commit.
