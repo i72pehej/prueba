@@ -1,4 +1,4 @@
-**Comandos Ramas III**   
+# **Comandos Ramas III**   
    **Almacenar cambios temporales:**  
    `git stash save "Mensaje"`    
 
@@ -17,7 +17,7 @@
   git stash pop nombre_stash
   ~~~   
 
-**Comandos GitHub I**
+# **Comandos GitHub I**
   **Añadir repositorio remoto:**  
   `git remote add origin url`   
 
@@ -43,7 +43,7 @@
   **Clonar un repositorio remoto:**
   `git clone url`   
 
-**Dar seguimiento a** *branches* **remotos**  
+# **Dar seguimiento a** *branches* **remotos**  
 ### LOCAL -> REMOTO
     1. Cambios en el repositorio local.
     2. Commit de los cambios.
@@ -59,7 +59,7 @@
     * En un solo paso:
     `git pull`
 
-**Operaciones con** *branches* **remotos**  
+# **Operaciones con** *branches* **remotos**  
   * Creacion:
     1. Crear branch local.
     2. Hacer cambios en dicho branch.
