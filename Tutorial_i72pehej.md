@@ -11,7 +11,7 @@
   **Eliminar un cambio temporal:**  
   `git stash drop nombre_stash`   
 
-  **Aplicar cambio del stash:**
+  **Aplicar cambio del** *stash* **:**
   ~~~
   git stash apply nombre_stash
   git stash pop nombre_stash
@@ -44,19 +44,19 @@
   `git clone url`   
 
 # **Dar seguimiento a** *branches* **remotos**  
-    **LOCAL -> REMOTO**   
+  **LOCAL -> REMOTO**   
     1. Cambios en el repositorio local.   
     2. Commit de los cambios.   
     3. Añadir cambios a repositorio remoto:   
     `git push`
 
-    **REMOTO -> LOCAL**   
-    * Sincronización y unión:   
+  **REMOTO -> LOCAL**   
+  * Sincronización y unión:   
     ~~~
     git fetch origin
     git merge origin/master
     ~~~   
-    * En un solo paso:    
+  * En un solo paso:    
     `git pull`
 
 # **Operaciones con** *branches* **remotos**  
