@@ -1,7 +1,9 @@
 **Comandos Ramas III**
 
-  Almacenar cambios temporales: ---
-  `git stash save "Mensaje"` ---
+  Almacenar cambios temporales:
+  ---
+  `git stash save "Mensaje"`
+  ---
 
   Listar cambios:
 
